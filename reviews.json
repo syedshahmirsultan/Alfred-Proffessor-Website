@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Mathematics",
+        "stars": "5",
+        "review": "Dr. Johnson's lectures are clear and engaging. She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Bob Williams",
+        "subject": "Physics",
+        "stars": "4",
+        "review": "Dr. Williams is knowledgeable and passionate, but his exams are tough."
+      },
+      {
+        "professor": "Dr. Carol Smith",
+        "subject": "Chemistry",
+        "stars": "3",
+        "review": "Dr. Smith is a decent professor, but her lectures can be a bit monotonous."
+      },
+      {
+        "professor": "Dr. David Brown",
+        "subject": "Biology",
+        "stars": "5",
+        "review": "Dr. Brown is an excellent professor who truly cares about his students."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Computer Science",
+        "stars": "4",
+        "review": "Dr. Davis is very knowledgeable, but her assignments can be quite challenging."
+      },
+      {
+        "professor": "Dr. Frank Miller",
+        "subject": "Economics",
+        "stars": "2",
+        "review": "Dr. Miller's lectures are difficult to follow, and he doesn't explain concepts clearly."
+      },
+      {
+        "professor": "Dr. Grace Wilson",
+        "subject": "History",
+        "stars": "4",
+        "review": "Dr. Wilson's classes are interesting and informative, but her grading is strict."
+      },
+      {
+        "professor": "Dr. Henry Moore",
+        "subject": "Political Science",
+        "stars": "5",
+        "review": "Dr. Moore is a fantastic professor who brings real-world experience into his lectures."
+      },
+      {
+        "professor": "Dr. Irene Taylor",
+        "subject": "Sociology",
+        "stars": "3",
+        "review": "Dr. Taylor is knowledgeable, but her lectures can be dry at times."
+      },
+      {
+        "professor": "Dr. Jack Anderson",
+        "subject": "Psychology",
+        "stars": "4",
+        "review": "Dr. Anderson is a good professor, but he assigns a lot of readings."
+      },
+      {
+        "professor": "Dr. Karen Thomas",
+        "subject": "Philosophy",
+        "stars": "5",
+        "review": "Dr. Thomas is an inspiring professor who encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Louis Martinez",
+        "subject": "English Literature",
+        "stars": "4",
+        "review": "Dr. Martinez is passionate about literature, but his grading can be tough."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Art History",
+        "stars": "3",
+        "review": "Dr. Garcia is knowledgeable, but her lectures are sometimes hard to follow."
+      },
+      {
+        "professor": "Dr. Nathan Lee",
+        "subject": "Anthropology",
+        "stars": "4",
+        "review": "Dr. Lee's classes are interesting, but his exams are challenging."
+      },
+      {
+        "professor": "Dr. Olivia Clark",
+        "subject": "Environmental Science",
+        "stars": "5",
+        "review": "Dr. Clark is an excellent professor who makes learning fun and engaging."
+      },
+      {
+        "professor": "Dr. Peter Hernandez",
+        "subject": "Geography",
+        "stars": "3",
+        "review": "Dr. Hernandez is a decent professor, but his lectures can be repetitive."
+      },
+      {
+        "professor": "Dr. Quentin Robinson",
+        "subject": "Statistics",
+        "stars": "4",
+        "review": "Dr. Robinson is a great professor, but his assignments are tough."
+      },
+      {
+        "professor": "Dr. Rachel Young",
+        "subject": "Business Administration",
+        "stars": "5",
+        "review": "Dr. Young is a fantastic professor who provides practical insights into the business world."
+      },
+      {
+        "professor": "Dr. Samuel Perez",
+        "subject": "Engineering",
+        "stars": "3",
+        "review": "Dr. Perez is knowledgeable, but his lectures can be hard to understand."
+      },
+      {
+        "professor": "Dr. Tiffany Wright",
+        "subject": "Music",
+        "stars": "5",
+        "review": "Dr. Wright is an inspiring professor who brings out the best in her students."
+      }
+    ]
+  }
+  
